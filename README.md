@@ -13,7 +13,7 @@ I use arch and make use of AUR repositories. Sadly I do not have the time to sup
 With yaourt simply execute the following to install everything which might be missing:
 
 ###Required
-`yaourt -S --needed awesome-git awesome-themes-git ttf-font-awesome vicious lua-dkjson fish unicode-rxvt ceti-2-themes-git`
+`yaourt -S --needed awesome-git awesome-themes-git ttf-font-awesome vicious lua-dkjson fish unicode-rxvt`
 ###Optional
 `yaourt -S --needed compton network-manager-applet dunst pulseaudio pasystray rofi imagemagick feh`
 
@@ -23,8 +23,11 @@ You can however find it [here](http://i.imgur.com/WRP8NEc.jpg).
 Found it at the following [imgur channel](http://imgur.com/r/MinimalWallpaper).
 
 ##GTK Theme
-I use [ceti2](https://github.com/horst3180/ceti-2-theme) by [horst3180](https://github.com/horst3180/).
+I use [ceti2](https://github.com/horst3180/ceti-2-theme) by [horst3180](https://github.com/horst3180/) (ceti-2-themes-git).
 
 ##Chrome Theme
 I use the theme provided by ceti2.
+
+##Icon Theme
+Paper (paper-icon-theme-git).
 
