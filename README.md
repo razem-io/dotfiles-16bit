@@ -13,7 +13,7 @@ I use arch and make use of AUR repositories. Sadly I do not have the time to sup
 With yaourt simply execute the following to install everything which might be missing:
 
 ###Required
-`yaourt -S --needed awesome-git awesome-themes-git ttf-font-awesome vicious lua-dkjson fish unicode-rxvt`
+`yaourt -S --needed awesome-git awesome-themes-git ttf-font-awesome vicious lua-dkjson fish unicode-rxvt ceti-2-themes-git`
 ###Optional
 `yaourt -S --needed compton network-manager-applet dunst pulseaudio pasystray rofi imagemagick feh`
 
@@ -21,4 +21,10 @@ With yaourt simply execute the following to install everything which might be mi
 Sadly I can not find the license for the wallpaper. That is why it is not included in the repository. 
 You can however find it [here](http://i.imgur.com/WRP8NEc.jpg). 
 Found it at the following [imgur channel](http://imgur.com/r/MinimalWallpaper).
+
+##GTK Theme
+I use [ceti2](https://github.com/horst3180/ceti-2-theme) by [horst3180](https://github.com/horst3180/).
+
+##Chrome Theme
+I use the theme provided by ceti2.
 
