@@ -13,7 +13,7 @@ I use arch and make use of AUR repositories. Sadly I do not have the time to sup
 With yaourt simply execute the following to install everything which might be missing:
 
 ###Required
-`yaourt -S --needed awesome-git awesome-themes-git ttf-font-awesome vicious lua-dkjson fish unicode-rxvt`
+`yaourt -S --needed git awesome-git awesome-themes-git ttf-font-awesome vicious lua-dkjson fish rxvt-unicode`
 ###Optional
 `yaourt -S --needed compton network-manager-applet dunst pulseaudio pasystray rofi imagemagick feh`
 
