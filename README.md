@@ -19,13 +19,13 @@ With yaourt simply execute the following to install everything which might be mi
 
 ##Wallpaper
 Sadly I can not find the license for the wallpaper. That is why it is not included in the repository. 
-You can however find it [here](http://i.imgur.com/WRP8NEc.jpg). 
-Found it at the following [imgur channel](http://imgur.com/r/MinimalWallpaper).
+You can however find it [here](http://imgur.com/FI5cosR).
 
 ##GTK Theme
 I use [ceti2](https://github.com/horst3180/ceti-2-theme) by [horst3180](https://github.com/horst3180/) (ceti-2-themes-git).
+`yaourt -S --needed ceti-2-themes-git`
 
-##Chrome Theme
+##Chrome/Firefox Theme
 I use the theme provided by ceti2.
 
 ##Icon Theme
