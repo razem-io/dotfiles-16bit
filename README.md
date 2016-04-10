@@ -22,12 +22,12 @@ Sadly I can not find the license for the wallpaper. That is why it is not includ
 You can however find it [here](http://imgur.com/FI5cosR).
 
 ##GTK Theme
-I use [ceti2](https://github.com/horst3180/ceti-2-theme) by [horst3180](https://github.com/horst3180/) (ceti-2-themes-git).
-`yaourt -S --needed ceti-2-themes-git`
+I use [ceti2](https://github.com/horst3180/arc-theme) by [horst3180](https://github.com/horst3180/) (ceti-2-themes-git)
+`yaourt -S --needed arc-themes`
 
 ##Chrome/Firefox Theme
-I use the theme provided by ceti2.
+I use the theme provided by arc.
 
 ##Icon Theme
-Paper (paper-icon-theme-git).
+Paper-Icons `paper-icon-theme-git`
 
