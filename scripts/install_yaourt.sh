@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S --noconfirm base-devel
+sudo pacman -S --noconfirm --needed base-devel
 cd /tmp
 curl -O https://aur.archlinux.org/cgit/aur.git/snapshot/package-query.tar.gz
 tar -xvzf package-query.tar.gz
